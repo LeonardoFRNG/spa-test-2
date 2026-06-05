@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "id": "123ABC",
+            "username":"aura.alean",
+            "password":"aurita",
+            "name": "Aura Alean",
+            "role": "admin"
+        },
+        {
+            "id": "124ABC",
+            "username":"diego.rodriguez",
+            "password":"diegutio",
+            "name": "Diego Rodriguez",
+            "role": "user"
+        }
+    ]
+}
